@@ -11,7 +11,7 @@ path.py==8.1.2
 pexpect==4.0.1
 pickleshare==0.6
 ptyprocess==0.5.1
-PyYAML==3.11
+PyYAML==5.4
 simplegeneric==0.8.1
 traitlets==4.2.1
 whitenoise==2.0.6
